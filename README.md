@@ -9,4 +9,4 @@ Python realisation of few matrix operations.
 4) Matrix determinant finding using LU-decomposition
 
 ## Developers
-Developed by Vadim Nechaev & Egor Pristavka. (june of 2022)
+Developed by Vadim Nechaev & Egor Pristavka. (may of 2022)
